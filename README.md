@@ -14,7 +14,7 @@
     Chạy script Jupyter Notebook để khởi động giao diện chatbot.
     jupyter notebook AI_Agent.ipynb
 
-2.  **Tương tác với Chatbot:**
+3.  **Tương tác với Chatbot:**
 
     * Sau khi ứng dụng chạy, một URL cục bộ sẽ được cung cấp (ví dụ: http://127.0.0.1:7861). Mở URL này trong trình duyệt web của bạn.
     * Bạn có thể nhập câu hỏi vào ô "User Input".
