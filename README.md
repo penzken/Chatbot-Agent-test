@@ -11,8 +11,8 @@
 
 1.  **Chạy ứng dụng:**
 
-    Chạy script Jupyter Notebook để khởi động giao diện chatbot.
-    jupyter notebook AI_Agent.ipynb
+    * Chạy script Jupyter Notebook để khởi động giao diện chatbot:
+    * jupyter notebook AI_Agent.ipynb
 
 3.  **Tương tác với Chatbot:**
 
